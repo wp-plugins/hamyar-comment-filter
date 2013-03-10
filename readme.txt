@@ -3,7 +3,7 @@ Contributors: Hamyar Programming Team
 Tags: Comment, Filter, Word, Wordpress
 Requires at least: 2.1
 Tested up to: 3.1
-Stable tag: 4.3
+Stable tag: 1.1
 
 Say goodbye to unpleasant words in you blog comments!
 == Description ==
